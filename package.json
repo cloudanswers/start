@@ -1,6 +1,6 @@
 {
   "name": "start",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "private": true,
   "description": "🔴 Functional task runner for Node.js",
   "workspaces": [
